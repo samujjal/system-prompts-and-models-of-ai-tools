@@ -1,22 +1,3 @@
-<p align="center">
-  <sub>Thanks to</sub>  
-</p>
-
-<p align="center">
-  <a href="https://github.com/latitude-dev/latitude-llm">
-    <img src="assets/latitude-dark.png" alt="Latitude Logo" width="700"/>
-  </a>
-</p>
-
-<div align="center" markdown="1">
-
-### [Make your AI agents self-healing](https://github.com/latitude-dev/latitude-llm)  
-[Open Source.](https://github.com/latitude-dev/latitude-llm)
-
-</div>
-
----
-
 <a href="https://discord.gg/NwzrWErdMU" target="_blank">
   <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
 </a>
